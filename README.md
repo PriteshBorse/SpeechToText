@@ -1,2 +1,2 @@
 # SpeechToText
-Using JS
+Using JavaScript
